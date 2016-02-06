@@ -64,6 +64,9 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+#Fast Platform Switch
+/LocalCache/
+
 #################
 ## Visual Studio
 #################
