@@ -31,6 +31,15 @@
 .builds
 *.dotCover
 
+#User Specific
+*.userprefs
+*.usertasks
+ 
+ #Mono Project Files
+ *.pidb
+ *.resources
+ test-results/
+
 # Visual Studio profiler
 *.psess
 *.vsp
