@@ -10,4 +10,8 @@ public class UIManager : MonoBehaviour {
 	public void Quit(){
 		Application.Quit ();
 	}
+
+	public void ABCD(){
+		Debug.Log("ASDASDAS");
+	}
 }
