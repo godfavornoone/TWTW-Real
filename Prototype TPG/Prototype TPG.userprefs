@@ -1,15 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\UIManager.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="D:\Test_Structure\Assets\Enemy.cs">
     <Files>
-      <File FileName="Assets\Heroes\Player_Controller.cs" Line="1" Column="1" />
-      <File FileName="Assets\Heroes\Arrow_Launch.cs" Line="1" Column="1" />
-      <File FileName="Assets\Enermy\Enemy_Controller.cs" Line="1" Column="1" />
-      <File FileName="Assets\Heroes\Player_Status.cs" Line="1" Column="1" />
-      <File FileName="Assets\Enermy\EnemyText_Control.cs" Line="1" Column="1" />
-      <File FileName="Assets\Typing_Input.cs" Line="1" Column="1" />
-      <File FileName="Assets\Heroes\Player_Arrow.cs" Line="1" Column="1" />
-      <File FileName="Assets\UIManager.cs" Line="15" Column="25" />
+      <File FileName="D:\Test_Structure\Assets\Enemy.cs" Line="29" Column="19" />
+      <File FileName="D:\Test_Structure\Assets\Enemy_Structure.cs" Line="16" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
